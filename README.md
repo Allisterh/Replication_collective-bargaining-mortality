@@ -2,8 +2,9 @@
 Replication materials for Wage setting institutions, inequality, and health
 
 # Data files
-wage_setting_mortality_SHI_20210408: this is the basic data file for most of the analyses in Stata. 
-sens_smr: this is used to estimate the causal sensitivty analyses for the standardized mortality rate outcome in R
+`wage_setting_mortality_SHI_20210408`: this is the basic data file for most of the analyses in Stata.
+
+sens_smr: this is used to estimate the causal sensitivity analyses for the standardized mortality rate outcome in R
 sens_life: this is used to estimate the causal sensitivty analyses for the life expectancy outcome in R
 sens_inf: this is used to estimate the causal sensitivty analyses for the infant mortality rate outcome in R
 wageR2: this is used to estimate the mediation analysis in R
