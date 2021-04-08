@@ -1,5 +1,5 @@
 # collective-bargaining-mortality
-Replication materials for Wage setting institutions, inequality, and health
+Replication materials for [The health effects of wage setting institutions: How collective bargaining improves health but not because it reduces inequality](https://onlinelibrary.wiley.com/doi/10.1111/1467-9566.13272) 
 
 # Data files
 `wage_setting_mortality_SHI_20210408`: this is the basic data file for most of the analyses in Stata.
